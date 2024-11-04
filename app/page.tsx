@@ -1,5 +1,5 @@
-import { CameraAppComponent } from "@/components/camera-app"
+import { NotificationButton } from "@/components/notification-button"
 
 export default function Page() {
-  return <CameraAppComponent />
+  return <NotificationButton />
 }
