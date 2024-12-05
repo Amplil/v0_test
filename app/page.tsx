@@ -1,5 +1,5 @@
-import { NotificationButton } from "@/components/notification-button"
+import DatePickerWithRange from "@/components/date-picker"
 
 export default function Page() {
-  return <NotificationButton />
+  return <DatePickerWithRange />
 }
